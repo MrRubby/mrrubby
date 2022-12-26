@@ -1,11 +1,11 @@
-## 🖐 Hi, I am Eren!
+## 🖐 Hi, I am İsmail!
 
 <br />
 
 **I am a self-taught discord bot developer from Turkey.**
 <br/>**I love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.**
 <br />**I have 3+ Years of experience in discord bot development.**
-<br/><br/>👀 **Check out my website** --> <a href="https://sanct.me"><b>Sanct.me</b></a>
+<br/><br/>👀 **Check out my website** --> <a href="https://mrrubby.github.io"><b>MrRubby Webste</b></a>
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=ErenBaygun&show_icons=true" alt="git stats"> -->
 
 
@@ -17,10 +17,10 @@
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 🌱 I’m currently learning HTML & CSS.<br/>
 • 💬 Ask me about <b>Discord Bots</b>, I am happy to help.<br/>
-• 📫 You can reach me via <a href="https://sanct.me/discord"><b>Discord</b></a> & <a href="https://www.instagram.com/eren.byg"><b>Instagram</b></a><br/>
+• 📫 You can reach me via <a href="https://discord.gg/y4mPbWjTTh"><b>Discord</b></a> & <a href="https://www.instagram.com/ayazisgood"><b>Instagram</b></a><br/>
 </span>
 
-<!-- ![Profile views](https://gpvc.arturio.dev/ErenBaygun) -->
+<!-- ![Profile views](https://gpvc.arturio.dev/MrRubby) -->
 
 [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/513752527989374976?theme=dark&bg=272727)](https://discord.com/users/513752527989374976)
 
