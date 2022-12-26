@@ -33,31 +33,31 @@
 
 ## 🌏 **CONNECT WITH ME**
 
-<a href="https://www.instagram.com/eren.byg"> 
+<a href="https://www.instagram.com/ayazisgood"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a href="https://discord.gg/MEdUDMSTMx"> 
+<a href="https://discord.gg/y4mPbWjTTh"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
 </a>
-<!-- <a href="https://www.youtube.com/channel/UC1hooNUnK4Ivk5KBaT5PKIg"> 
+<!-- <a href="https://www.youtube.com/"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a> -->
-<a href="mailto:eren@baygun.net"> 
+<a href="mailto:ayaz25138@gmal.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-<a href="https://www.github.com/ErenBaygun"> 
+<a href="https://www.github.com/MrRubby"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a>
-<!-- <a href="https://twitter.com/coders_hi"> 
+<!-- <a href="https://twitter.com/"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a> -->
-<!-- <a href="https://www.facebook.com/hicoders"> 
+<!-- <a href="https://www.facebook.com/"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
 </a> -->
-<!-- <a  href="https://www.linkedin.com/company/hi-coders/">
+<!-- <a  href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a> -->
-<!-- <a href="https://codepen.io/hicoders"> 
+<!-- <a href="https://codepen.io/"> 
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
 </a> -->
 <br />
