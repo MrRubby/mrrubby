@@ -22,7 +22,7 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/MrRubby) -->
 
-[![Discord Profile]([https://lanyard-profile-readme.vercel.app/api/513752527989374976?theme=dark&bg=272727]([https://api.lanyard.rest/v1/users/564545098017407007](https://api.lanyard.rest/v1/users/564545098017407007)))](https://discord.com/users/564545098017407007)
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/513752527989374976?theme=dark&bg=272727)](https://discord.com/users/513752527989374976)
 
 ## 🏆 Trophies
 [![](https://github-profile-trophy.vercel.app/?username=mrrubby&theme=juicyfresh&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C,CC,CCC)][repo]
