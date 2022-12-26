@@ -22,7 +22,7 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/MrRubby) -->
 
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/513752527989374976?theme=dark&bg=272727)](https://discord.com/users/564545098017407007)
+[![Discord Profile]([https://lanyard-profile-readme.vercel.app/api/513752527989374976?theme=dark&bg=272727](https://api.lanyard.rest/v1/users/564545098017407007))](https://discord.com/users/564545098017407007)
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/564545098017407007)
 Anlaşmazlık Varlığı
