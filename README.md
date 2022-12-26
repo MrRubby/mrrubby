@@ -24,6 +24,15 @@
 
 [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/513752527989374976?theme=dark&bg=272727)](https://discord.com/users/564545098017407007)
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/564545098017407007)
+Anlaşmazlık Varlığı
+
+
+Not: Mevcut Nitro & Boosting rozetleri, şu anda animasyonlu bir avatarınız olmadığı sürece Discord API sınırlamaları nedeniyle çalışmaz, bu durumda Nitro rozeti görüntülenir.
+
+Bunu profilinizde kullanıyorsanız, destek göstermekten ve bu depoya bir depo vermekten çekinmeyin. ⭐ yıldız! Bu çok şey ifade ediyor, teşekkür ederim :)
+
+
 ## 🏆 Trophies
 [![](https://github-profile-trophy.vercel.app/?username=mrrubby&theme=juicyfresh&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C,CC,CCC)][repo]
 
