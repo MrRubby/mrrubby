@@ -1,5 +1,7 @@
 ## 🖐 Hi, I am İsmail!
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lyceion&theme=darkhub" alt="lyceion" /></a> </p>
+
 <br />
 
 **I am a self-taught discord bot developer from Turkey.**
